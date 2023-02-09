@@ -1,2 +1,2 @@
 # Remote-React
-A Zero to Hero Course to Get a React Remote Job!
+A Zero-to-Hero Guide to Getting a React Remote Job!
